@@ -1,5 +1,9 @@
 package Observer;
 
+import Observer.Look;
+import Observer.Reacting;
+import Observer.WhoToFollow;
+
 public class Runner {
 
 
